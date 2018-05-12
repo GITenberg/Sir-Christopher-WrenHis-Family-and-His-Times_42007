@@ -1,0 +1,28 @@
+_repo: Sir-Christopher-WrenHis-Family-and-His-Times_42007
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42007-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Phillimore, Lucy
+    gutenberg_agent_id: '41472'
+    url: http://www.gutenberg.org/2009/agents/41472
+description: ''
+gutenberg_issued: '2013-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42007'
+  lccn: '11007134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Great Britain -- History -- Stuarts, 1603-1714 -- Biography'
+- !lcsh 'Wren, Christopher, Sir, 1632-1723'
+- !lcsh 'Wren family'
+title: "Sir Christopher Wren: His Family and His Times\r\nWith Original Letters and\
+  \ a Discourse on Architecture Hitherto Unpublished. 1585-1723."
+url: http://www.gutenberg.org/ebooks/42007
